@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mfalcier/neo4j-kotlin-procedure-example.svg?branch=master)](https://travis-ci.org/mfalcier/neo4j-kotlin-procedure-example)
+[![Dependency Status](https://www.versioneye.com/user/projects/594bce0a6725bd0063d1f2ae/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/594bce0a6725bd0063d1f2ae)
+[![GitHub version](https://badge.fury.io/gh/mfalcier%2Fneo4j-kotlin-procedure-example.svg)](https://badge.fury.io/gh/mfalcier%2Fneo4j-kotlin-procedure-example)
+
 # Neo4j Kotlin Procedure Example
 
 This is an example project about Neo4j procedures written in Kotlin.
